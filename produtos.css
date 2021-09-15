@@ -1,0 +1,54 @@
+.principal{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+
+.entrar{
+    float: right;
+    margin-right: 30px;
+    margin-top: -10px;
+    color: white;
+    font-weight: bold;
+}
+
+.imagem{
+    background-image: url("back.jpg");
+  background-position: center;
+  background-attachment: fixed;
+  margin-top: 20px;
+}
+
+.produtos{
+    background-color: #efecd9;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: -45px;
+}
+
+.menuNav{
+    margin-left: 350px;
+}
+
+.footer{
+    background-color: #5c5757;
+}
+
+.panda{
+    margin-left: 100px;
+}
+
+.footercontent{
+    line-height: 0;
+}
+
+.carrinho{
+    float: right;
+    margin-top: -150px;
+    margin-right: -50px;
+    background-color: red;
+    border-radius: 25px;
+}
+
